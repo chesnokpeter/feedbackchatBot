@@ -1,0 +1,11 @@
+2023-04-20 20:01:43.933613    A request to the Telegram API was unsuccessful. Error code: 404. Description: Not Found
+2023-04-20 20:01:44.631648    A request to the Telegram API was unsuccessful. Error code: 404. Description: Not Found
+2023-04-20 20:01:45.090027    A request to the Telegram API was unsuccessful. Error code: 404. Description: Not Found
+2023-04-20 20:01:45.611259    A request to the Telegram API was unsuccessful. Error code: 404. Description: Not Found
+2023-04-20 20:01:46.128902    A request to the Telegram API was unsuccessful. Error code: 404. Description: Not Found
+2023-04-20 20:01:46.554367    A request to the Telegram API was unsuccessful. Error code: 404. Description: Not Found
+2023-04-20 20:01:47.008153    A request to the Telegram API was unsuccessful. Error code: 404. Description: Not Found
+2023-04-20 20:01:47.447076    A request to the Telegram API was unsuccessful. Error code: 404. Description: Not Found
+2023-04-20 20:01:47.829934    A request to the Telegram API was unsuccessful. Error code: 404. Description: Not Found
+2023-04-20 20:01:48.289680    A request to the Telegram API was unsuccessful. Error code: 404. Description: Not Found
+2023-04-20 20:01:48.716454    A request to the Telegram API was unsuccessful. Error code: 404. Description: Not Found
